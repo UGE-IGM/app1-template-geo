@@ -24,7 +24,7 @@ La figure ci-dessus montre la carte des départements métropolitains français,
 
 Ce dernier exemple montre une carte de la Seine-et-Marne, où chaque disque représente le nombre de licenciés d'une fédération sportive (ici celle de basket-ball en 2011). 
 L'aire de chaque disque est proportionnelle au nombre de licenciés. 
-Les données sont issues du dataset [Carte des licenciés sportifs en Seine-et-Marne](https://www.data.gouv.fr/fr/datasets/carte-des-licencies-sportifs-en-seine-et-marne-idf/), au format CSV.
+Les données sont issues du dataset [Carte des licenciés sportifs en Seine-et-Marne](https://www.data.gouv.fr/datasets/carte-des-licencies-sportifs-en-seine-et-marne/), au format CSV.
 Dans ce prototype, le nom d'une commune et le nombre de licenciés qui y habitent sont affichés quand le pointeur de la souris survole le disque correspondant.
 
 ## Tâches obligatoires
